@@ -9,7 +9,7 @@ return {
   },
 
   {
-    "nvchad/ui",
+    "AstralJohn/nvchad-ui",
     lazy = false,
     config = function()
       require "nvchad"
